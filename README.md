@@ -24,3 +24,13 @@ Window functions allow row-level analysis without collapsing data, making them e
 ## Goal
 
 Build strong SQL foundations for analytics, ML feature engineering, and interview readiness.
+### Day 9 — CTE + Window Functions
+
+* Multi-step CTE pipelines
+* Month-over-month growth analysis
+* Top-N per group using DENSE_RANK
+* Deduplication using ROW_NUMBER
+* Business segmentation (high growth + high rating)
+
+**Key Insight:**
+CTEs enable readable, production-style query pipelines and are essential for filtering window function outputs.
