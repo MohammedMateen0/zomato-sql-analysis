@@ -47,3 +47,15 @@ CTEs enable readable, production-style query pipelines and are essential for fil
 **Key Insight:**
 Correct SQL is not enough—efficient SQL matters in production systems.
 
+### Day 11 — JOINs, NULLs & Edge Cases
+
+* INNER JOIN vs LEFT JOIN behavior
+* Self joins for comparisons
+* Anti-joins using NOT EXISTS
+* NOT IN with NULL trap
+* COUNT(*) vs COUNT(column)
+* CROSS JOIN combinations
+
+**Key Insight:**
+Correct joins require understanding row multiplication, NULL behavior, and result-set grain.
+
