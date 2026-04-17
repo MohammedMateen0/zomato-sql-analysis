@@ -34,3 +34,16 @@ Build strong SQL foundations for analytics, ML feature engineering, and intervie
 
 **Key Insight:**
 CTEs enable readable, production-style query pipelines and are essential for filtering window function outputs.
+
+### Day 10 — Indexing & Query Optimization
+
+* Single and composite indexes
+* EXPLAIN / EXPLAIN ANALYZE
+* Functions that prevent index usage
+* LIKE wildcard performance
+* OR vs UNION ALL rewrites
+* JOIN filter placement for LEFT JOIN correctness
+
+**Key Insight:**
+Correct SQL is not enough—efficient SQL matters in production systems.
+
