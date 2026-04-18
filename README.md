@@ -59,3 +59,15 @@ Correct SQL is not enough—efficient SQL matters in production systems.
 **Key Insight:**
 Correct joins require understanding row multiplication, NULL behavior, and result-set grain.
 
+### Day 12 — SQL for Data Science
+
+* Cohort retention with week indexing
+* Funnel conversion metrics
+* Feature engineering table for ML
+* Sessionization via inactivity gaps
+* Sampling techniques
+
+**Key Insight:**
+SQL is used to build analytical datasets and features that directly feed ML models and product decisions.
+
+
